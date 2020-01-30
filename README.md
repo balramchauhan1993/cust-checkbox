@@ -1,6 +1,12 @@
 # cust-checkbox
 custom styled chekbox
 
+<p align="center">
+    <a href="https://balramchauhan1993.github.io/cust-checkbox.html">
+        <img src="https://balramchauhan1993.github.io/img/not-selected.png" alt="custum checkbox not selected demo">      
+        <img src="https://balramchauhan1993.github.io/img/selected.png" alt="custum checkbox selected demo">
+    </a>
+</p>
 
 # Demo
 
